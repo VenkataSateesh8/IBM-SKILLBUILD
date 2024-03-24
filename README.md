@@ -1,4 +1,4 @@
-# IBM-SKILLBUILD
+# AI Sentimental Analysis on Restaurant Reviews
 
 ### Problem Statement
 This project aims to build a machine learning model that can predict whether a restaurant review is positive or negative based on the text.
